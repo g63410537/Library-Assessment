@@ -86,8 +86,6 @@ Show some ❤️ and 🌟 the repo to support the project
 - [NodeJs Documentation](https://nodejs.org/en/docs/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 
-## Author 📝
-
 - [@Gowtham](https://github.com/g63410537)
 
 ## Connect Me On 🌍
