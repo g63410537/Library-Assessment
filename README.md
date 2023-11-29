@@ -1,11 +1,10 @@
 ## Library Management System 📚
 
-A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
-![1](https://user-images.githubusercontent.com/73348574/205624307-6a1b18fa-5ef7-4de9-b141-9225eca62c6c.png)
+
 
 ### Video Demo
 
-[Demo Link](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)
+[Demo Link](https://drive.google.com/file/d/1vpM5jjceJuowsZSsa2YoINrMCQVJ2sCo/view?usp=sharing)
 
 Show some ❤️ and 🌟 the repo to support the project
 
@@ -21,9 +20,8 @@ Show some ❤️ and 🌟 the repo to support the project
 - [Technologies 🛠](#technologies-)
 - [Screenshots](#screenshots)
 - [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
-- [License 🏆](#license-)
+
+  
 
 ## Features Of LCMS 🚀
 
@@ -90,13 +88,8 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Author 📝
 
-- [@iampranavdhar](https://www.github.com/iampranavdhar)
+- [@Gowtham](https://github.com/g63410537)
 
 ## Connect Me On 🌍
 
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/iampranavdhar)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
-
-## License 🏆
-
-This repository is licensed under MIT License. Find [LICENSE](LICENSE) to know more
+[![linkedin badge](https://in.linkedin.com/in/gowtham637943)]
